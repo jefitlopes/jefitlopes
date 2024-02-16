@@ -1,13 +1,13 @@
-## Sobre mim
+## About me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Software na Unitau.
-- 💼 Trabalhando como Estagiário de Desenvolvimento de Software na SAP.
-- 🌱 Aprendendo mais sobre Java, SAPUI5, Python.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Software Analysis and Development at Unitau.
+- 💼 Working as a Software Development Intern at SAP.
+- 🌱 Learning more about Java, SAPUI5, Python.
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,7 +23,7 @@
 ![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
+**Development tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
