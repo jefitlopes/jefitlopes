@@ -42,7 +42,8 @@
 <br/>
 
 <a href="https://github.com/jefitlopes" title="Perfil do Jefit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefitlopes&theme=dracula&show_icons=true" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefitlopes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jefitlopes&theme=tokyonight&show_icons=true" />
 </a>
 
 ## Onde me encontrar
